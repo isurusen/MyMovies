@@ -21,6 +21,8 @@ MyMovie uses a number of open source projects to work properly:
 * [fabric.io] - Lightweight & Powerful crash reporting and Answers, analytics you don't need to analyze.
 * [Card Layout] - Card layouts can vary to support the types of content they contain
 
+### Some screens of the MyMovie
+![screens.png](https://www.dropbox.com/s/yhxysp5boh887y1/screens.png?dl=0&raw=1)
 
 License
 ----
@@ -37,9 +39,9 @@ MIT
    [Glide]: <https://github.com/bumptech/glide>
    [fabric.io]: <https://fabric.io/kits/android/crashlytics>
    [Card Layout]: <http://daringfireball.net/projects/markdown/>
- 
-![Screenshot_20190317-232134.png](https://www.dropbox.com/s/n8uhui9v7wtgbmj/Screenshot_20190317-232134.png?dl=0&raw=1)
 
-![Screenshot_20190317-232134.png](https://www.dropbox.com/s/n8uhui9v7wtgbmj/Screenshot_20190317-232134.png?dl=0&raw=1)
+
+ 
+
 
  
