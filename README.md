@@ -1,4 +1,4 @@
-# My Movie - Android
+# MyMovie - Android
 
 MyMovie is a Android application which is to demonstrate to build a sample movie detail tool. Some of the tools and Technologies used
 
