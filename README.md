@@ -1,6 +1,6 @@
-# MyMovie - Android
+# MyMovies - Android
 
-MyMovie is a Android application which is to demonstrate to build a sample movie detail tool. Some of the tools and Technologies used
+MyMovies is a Android application which is to demonstrate to build a sample movie detail tool. Some of the tools and Technologies used
 
   - Android SDK
   - Android Card layout
@@ -14,14 +14,14 @@ MyMovie is a Android application which is to demonstrate to build a sample movie
   
 ### Tech
 
-MyMovie uses a number of open source projects to work properly:
+MyMovies uses a number of open source projects to work properly:
 
 * [Retrofit] - A type-safe HTTP client for Android and Java
 * [Glide] - An image loading and caching library for Android focused on smooth scrolling
 * [fabric.io] - Lightweight & Powerful crash reporting and Answers, analytics you don't need to analyze.
 * [Card Layout] - Card layouts can vary to support the types of content they contain
 
-### Some screens of the MyMovie
+### Some screens of the MyMovies
 ![screens.png](https://www.dropbox.com/s/yhxysp5boh887y1/screens.png?dl=0&raw=1)
 
 License
