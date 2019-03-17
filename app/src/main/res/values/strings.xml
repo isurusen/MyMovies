@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="API_KEY">c2442153261392cc1188db4c52c6d29e</string>
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="google_places_api">"https://maps.googleapis.com/maps/api/place/nearbysearch/json?"</string>
+    <string name="title_activity_maps">Map</string>
+    <integer name="search_radius">5000</integer>
+    <integer name="map_zoom_level">12</integer>
+    <string name="current_location_label">Your location</string>
+</resources>
