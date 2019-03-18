@@ -20,6 +20,8 @@ MyMovies uses a number of open source projects to work properly:
 * [Glide] - An image loading and caching library for Android focused on smooth scrolling
 * [fabric.io] - Lightweight & Powerful crash reporting and Answers, analytics you don't need to analyze.
 * [Card Layout] - Card layouts can vary to support the types of content they contain
+* [The Movie DB API] - themoviedb.org is a free and open movie database
+
 
 ### Some screens of the MyMovies
 ![screens.png](https://www.dropbox.com/s/yhxysp5boh887y1/screens.png?dl=0&raw=1)
@@ -39,6 +41,7 @@ MIT
    [Glide]: <https://github.com/bumptech/glide>
    [fabric.io]: <https://fabric.io/kits/android/crashlytics>
    [Card Layout]: <http://daringfireball.net/projects/markdown/>
+   [The Movie DB API]: <https://www.themoviedb.org/documentation/api>
 
 
  
